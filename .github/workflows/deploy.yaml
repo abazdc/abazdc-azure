@@ -6,7 +6,7 @@ on:
 
 env:
   RESOURCE_GROUP_NAME: github-action-bicep-rg
-  RESOURCE_GROUP_LOCATION: westeurope
+  RESOURCE_GROUP_LOCATION: northeurope
   ENV_NAME: devd4
 
 jobs:
